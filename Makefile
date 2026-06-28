@@ -11,8 +11,16 @@ help:
 ## RUN:
 
 .PHONY: run
-## run-dev: Run Next.js (on port 3000).
+## run: Run Next.js (on port 3000).
 run:
 	pnpm dev
+
+## :
+## LINT:
+
+.PHONY: lint
+## lint: Run ESLint.
+lint:
+	pnpm lint
 
 ## :
