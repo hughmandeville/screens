@@ -1,0 +1,210 @@
+.main {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #000;
+  color: #fff;
+}
+
+/* --- Artist-image grid (home background) --- */
+.mosaic {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  gap: 4px;
+}
+
+.tile {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.tileSelected {
+  outline: 3px solid #e10a0a;
+  outline-offset: -3px;
+}
+
+.backdrop {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+/* --- Artist stage (foreground, shown during the artist phase) --- */
+.stage {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: flex;
+  transition:
+    opacity 0.9s ease,
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.stageHidden {
+  opacity: 0;
+  transform: scale(0.86);
+  pointer-events: none;
+}
+
+.stageVisible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.imagePane {
+  position: relative;
+  flex: 1 1 50%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #000;
+}
+
+.activeImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.details {
+  flex: 1 1 50%;
+  height: 100%;
+  padding: 56px 48px;
+  overflow-y: auto;
+  background-color: rgba(12, 12, 12, 0.78);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: clamp(36px, 4vw, 68px);
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+
+.meta {
+  margin-top: 12px;
+  font-size: clamp(15px, 1.3vw, 20px);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #e10a0a;
+}
+
+.bio {
+  margin-top: 24px;
+  max-width: 60ch;
+  font-size: clamp(14px, 1.1vw, 18px);
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.section {
+  margin-top: 36px;
+}
+
+.sectionTitle {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.list {
+  list-style: none;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.newsItem {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.newsThumb {
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.newsBody {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.tourItem {
+  display: grid;
+  grid-template-columns: 110px 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.itemTitle {
+  font-size: clamp(14px, 1.05vw, 17px);
+  font-weight: 600;
+  color: #fff;
+}
+
+.itemDate {
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.tourLocation {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.55);
+  text-align: right;
+}
+
+/* --- Logo: flies between centered (home) and corner watermark (artist) --- */
+.logo {
+  position: absolute;
+  z-index: 3;
+  height: auto;
+  filter: drop-shadow(0 6px 30px rgba(0, 0, 0, 0.7));
+  transition:
+    top 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    left 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    width 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.logoHome {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: clamp(260px, 34vw, 560px);
+}
+
+.logoArtist {
+  top: 28px;
+  left: 32px;
+  transform: translate(0, 0);
+  width: 116px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stage,
+  .logo {
+    transition: none;
+  }
+}
