@@ -2,6 +2,8 @@
 
 Examples of content to show on office screens.
 
+**Live site:** https://hughmandeville.github.io/screens
+
 ## A&R
 
 Information about A&R, including upcoming events, artist highlights, and industry news.
@@ -54,7 +56,7 @@ Each entry in `news.json`:
 
 The app is exported as a static site (`output: 'export'` in
 [`next.config.ts`](next.config.ts)) and hosted on GitHub Pages under the project
-sub-path `/screens` (e.g. `https://<user>.github.io/screens`).
+sub-path `/screens` (https://hughmandeville.github.io/screens).
 
 [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) builds and
 publishes on every push to `main` (and via manual dispatch). It refreshes
