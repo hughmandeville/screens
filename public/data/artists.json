@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Blondshell",
+    "image": "https://www.virginmusic.com/wp-content/uploads/2025/07/blondshell_1-2.jpeg",
+    "label": "Partisan Records",
+    "country": "United States",
+    "bio": "Sabrina Mae Teitelbaum, better known as Blondshell, is an American indie rock singer, songwriter and musician based in Los Angeles, California. Following an early pop-leaning career under the name BAUM, Teitelbaum debuted Blondshell in June 2022 with the single 'Olympus'.",
+    "news": [
+      {
+        "date": "2026-09-25",
+        "title": "'voilins' the third studio album from blondshell",
+        "image": "https://images.squarespace-cdn.com/content/v1/62c5e930a7fabc72bdc99ed1/41cbdf69-aa04-4e24-b696-40d4e6a523ab/blondshell_violins+%281%29.png"
+      }
+    ],
+    "tourDates": [
+      {
+        "date": "2026-10-31",
+        "location": "Philadelphia, PA",
+        "venue": "Union Transfer"
+      },
+      {
+        "date": "2026-11-06",
+        "location": "New York, NY",
+        "venue": "Terminal 5"
+      },
+      {
+        "date": "2026-11-07",
+        "location": "New York, NY",
+        "venue": "Terminal 5"
+      }
+    ]
+  },
+  {
+    "name": "Stray Kids",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054626/5BXoA14BBvjmRUr9JaHxrsyFGY-scaled-1.jpg",
+    "label": "JYP ENTERTAINMENT/ REPUBLIC",
+    "country": "South Korea",
+    "bio": "Stray Kids is a South Korean boy band formed by JYP Entertainment in 2017. The band has eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. Former member Woojin left the band in 2019.",
+    "tourDates": [
+      {
+        "date": "2026-07-25",
+        "location": "Seoul",
+        "venue": "KSPO Dome"
+      },
+      {
+        "date": "2026-07-26",
+        "location": "Seoul",
+        "venue": "KSPO Dome"
+      },
+      {
+        "date": "2026-07-29",
+        "location": "Seoul",
+        "venue": "KSPO Dome"
+      }
+    ]
+  },
+  {
+    "name": "Oklou",
+    "image": "https://www.virginmusic.com/wp-content/uploads/2025/07/artworks-d5YZBOKnenmXImWR-L1pS2g-t1080x1080.jpg",
+    "label": "True Panther",
+    "country": "France"
+  },
+  {
+    "name": "Geese",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2025/12/16201438/1-13.jpeg",
+    "label": "Partisan Records",
+    "country": "United States"
+  },
+  {
+    "name": "Joji",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04153604/589007630_18547384495029375_3100462656659887292_n.jpg",
+    "label": "Palace Creek",
+    "country": "United States"
+  },
+  {
+    "name": "Carin Leon",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054554/CARINLEON_CROP.jpg",
+    "label": "Socios Music",
+    "country": "United States"
+  },
+  {
+    "name": "Mac DeMarco",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054632/SUuDCbiiV3rqQch8Ur78MLMI-scaled-1.jpg",
+    "label": "Mac's Record Label",
+    "country": "United States"
+  },
+  {
+    "name": "James Blake",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04154637/1-13-scaled-e1770220149192.jpg",
+    "label": "Good Boy Records",
+    "country": "United States"
+  },
+  {
+    "name": "Amyl and The Sniffers",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054555/Amyl-the-Sniffers-_CROP.jpg",
+    "label": "Virgin Music",
+    "country": "Australia"
+  },
+  {
+    "name": "Modest Mouse",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/03/11001045/Single_1_Look_How_Far_-_Press_Image_LEAD_PHOTO.jpg",
+    "label": "Glacial Pace Recordings",
+    "country": "United States"
+  },
+  {
+    "name": "Leigh-Anne",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2025/12/16201851/1-17.jpeg",
+    "label": "Made in The 90s",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "The Paradox",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04160426/9ab26f2070f9be44165acc994456a127.1000x1000x1.jpg",
+    "label": "Hundred Days Records",
+    "country": "United States"
+  },
+  {
+    "name": "Bad Omens",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054644/nrZ04YGnTR90xc7jMi8SwAIAFY-scaled-1.jpg",
+    "label": "Sumerian",
+    "country": "United States"
+  },
+  {
+    "name": "Nicky Jam",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04155846/1900x1900-000000-81-0-0.jpg",
+    "label": "NJ Music",
+    "country": "United States"
+  },
+  {
+    "name": "Melanie C",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04170759/610279741_18549357412028849_6718647522949707464_n.jpg",
+    "label": "Red Girl",
+    "country": "United States"
+  },
+  {
+    "name": "Kings of Leon",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2025/12/16201755/1-19-scaled-e1765916627469.jpeg",
+    "label": "Love Tap Records",
+    "country": "United States"
+  },
+  {
+    "name": "John Summit",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04160816/5-DSP.jpg",
+    "label": "Darkroom Records",
+    "country": "United States"
+  },
+  {
+    "name": "David Kushner",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054621/david-kushner.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Montell Fish",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054630/VtnfPJXxr3uiXgdIqesy22ish14-scaled-1.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Tom Odell",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054604/tom-odell.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "BTS",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054649/dX6G9LpLgfv3RyGLzeAa4clc-scaled-1.jpg",
+    "label": "BIGHIT MUSIC",
+    "country": "South Korea"
+  },
+  {
+    "name": "Kip Moore",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054553/KIPMOORE_CROP.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Disclosure",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2025/12/16201704/ab6761610000e5eb3faf416d3be99d63fec18baa.jpg",
+    "label": "Disorder Records",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Beabadoobee",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054621/baebadoobee.jpg",
+    "label": "Dirty Hit",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Bishop Briggs",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054556/BISHOP_CROP.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Alexander Stewart",
+    "image": "https://www.virginmusic.com/wp-content/uploads/2025/07/250520006309030015.png",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Henrique & Juliano",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054634/S64snaCJvGKm1CzLuUle5Yk-scaled-1.jpg",
+    "label": "Vida Nova Produções",
+    "country": "Brazil"
+  },
+  {
+    "name": "King Gizzard & The Lizard Wizard",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054558/king.jpg",
+    "label": "KGLW",
+    "country": "Australia"
+  },
+  {
+    "name": "Arcane",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/10/15054551/1077498-arcaneseason2soundtrackalbumart-1280.jpg",
+    "label": "Riot Games",
+    "country": "United States"
+  },
+  {
+    "name": "NCT 127",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054612/nct-127.jpg",
+    "label": "SM Entertainment",
+    "country": "South Korea"
+  },
+  {
+    "name": "Steve Aoki",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054628/MM3xUZpUt365jq2KwfMFW5ovg5A-scaled-1.jpg",
+    "label": "Dim Mak",
+    "country": "United States"
+  },
+  {
+    "name": "TWICE",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054624/bda7cOzM1LqUTYhDbRohtBAuE5E-scaled-1.jpg",
+    "label": "JYP ENTERTAINMENT/ REPUBLIC",
+    "country": "South Korea"
+  },
+  {
+    "name": "Kevin Abstract",
+    "image": "https://www.virginmusic.com/wp-content/uploads/2025/07/75570005-1.jpg",
+    "label": "Juno / X8 Music",
+    "country": "United States"
+  },
+  {
+    "name": "Zeds Dead",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054601/zeds-dead.jpg",
+    "label": "Deadbeats",
+    "country": "Canada"
+  },
+  {
+    "name": "Tove Lo",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054603/tove-lo.jpg",
+    "label": "Pretty Swede Records",
+    "country": "United States"
+  },
+  {
+    "name": "D-Block Europe",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054623/dblock.jpg",
+    "label": "EGA Distro",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Lucky Brown",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054616/lucky-brown.jpg",
+    "label": "Stars Music",
+    "country": "Chile"
+  },
+  {
+    "name": "The 1975",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054603/1975-scaled-1.jpg",
+    "label": "Dirty Hit",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Grupo Firme",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054637/SnL4eadbdbT59RvjNU7MhaRul4-scaled-1.jpg",
+    "label": "Music VIP",
+    "country": "Mexico"
+  },
+  {
+    "name": "Flume",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054648/flume.jpg",
+    "label": "Future Classic",
+    "country": "Australia"
+  },
+  {
+    "name": "Gryffin",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054618/gryffin.jpg",
+    "label": "Virgin Music",
+    "country": "United States"
+  },
+  {
+    "name": "Polo & Pan",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054609/polopan.jpg",
+    "label": "EKLEROSHOCK/ HAMBURGER",
+    "country": "France"
+  },
+  {
+    "name": "Marta Santos",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054614/marta-santos.jpg",
+    "label": "Sound Blaster",
+    "country": "Spain"
+  },
+  {
+    "name": "Vegas",
+    "image": "https://www.virginmusic.com/wp-content/uploads/2024/10/VEGAS-7.jpg",
+    "label": "SYNK87 MUSIC",
+    "country": "Brasil"
+  },
+  {
+    "name": "Boy Pablo",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054622/boypablo.jpg",
+    "label": "777",
+    "country": "Norway"
+  },
+  {
+    "name": "December Avenue",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054640/7mbHzecl0Lobg06TeNdT1DXE-scaled-1.jpg",
+    "label": "Tower of Doom",
+    "country": "Philippines"
+  },
+  {
+    "name": "La Receta",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054617/la-receta.jpg",
+    "label": "Virgin Music",
+    "country": "Mexico"
+  },
+  {
+    "name": "Criolo",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054642/E6ZqCDIVWPNr2W3pgiCQzDQgY-scaled-1.jpg",
+    "label": "OLOKO RECORDS",
+    "country": "Brazil"
+  },
+  {
+    "name": "Tech N9ne",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054605/techn9ne.jpg",
+    "label": "Strange Music",
+    "country": "United States"
+  },
+  {
+    "name": "Himesh Reshammiya",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054633/F8MT80AfxFcyBb9QIFKhmA4aE-scaled-1.jpg",
+    "label": "HIMESH RESHAMMIYA MELODIES",
+    "country": "India"
+  },
+  {
+    "name": "Tony Kakkar",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054625/i6fct3vNybOsy8zZt64tKhto-scaled-1.jpg",
+    "label": "DESI MUSIC FACTORY",
+    "country": "India"
+  },
+  {
+    "name": "E-40",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054619/e40-scaled-1.jpg",
+    "label": "Heavy on the Grind",
+    "country": "United States"
+  },
+  {
+    "name": "Acraze",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054647/FXawhOLy8P1Hijl8VQBMN7R8M8E-scaled-1.jpg",
+    "label": "Thrive",
+    "country": "United States"
+  },
+  {
+    "name": "Chris Isaak",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054643/NB5MbDZSXruhAPvrbdFNyS3n530-scaled-1.jpg",
+    "label": "Primary Wave",
+    "country": "United States"
+  },
+  {
+    "name": "ANAVITORIA",
+    "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054645/VjJfUo0Efv6inE0jhAPAHpR54-scaled-1.jpg",
+    "label": "F/SIMAS",
+    "country": "Brazil"
+  }
+]
