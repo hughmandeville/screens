@@ -58,31 +58,36 @@
     "name": "Oklou",
     "image": "https://www.virginmusic.com/wp-content/uploads/2025/07/artworks-d5YZBOKnenmXImWR-L1pS2g-t1080x1080.jpg",
     "label": "True Panther",
-    "country": "France"
+    "country": "France",
+    "bio": "Marylou Vanina Mayniel, better known by her stage name Oklou, is a French musician from Poitiers. Her debut mixtape 'Galore' was released in 2020, which was followed up by her debut album 'Choke Enough' in 2025."
   },
   {
     "name": "Geese",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2025/12/16201438/1-13.jpeg",
     "label": "Partisan Records",
-    "country": "United States"
+    "country": "United States",
+    "bio": "Geese is an American rock band formed in 2016 in Brooklyn, New York. The band currently consists of Cameron Winter (vocals, keyboards, guitar), Emily Green (guitar), Dominic DiGesu (bass) and Max Bassin (drums). During live performances, the band is joined by keyboardist Sam Revaz."
   },
   {
     "name": "Joji",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/02/04153604/589007630_18547384495029375_3100462656659887292_n.jpg",
     "label": "Palace Creek",
-    "country": "United States"
+    "country": "United States",
+    "bio": "George Kusunoki Miller, known professionally as Joji, is a Japanese-Australian singer, songwriter, rapper, and internet personality. His music has been described as a mix between R&B, lo-fi, and trip-hop. Miller also created 'The Filthy Frank Show' on YouTube in 2011, a comedy web-series while he was still living in Japan, playing the oddball characters Filthy Frank and Pink Guy."
   },
   {
-    "name": "Carin Leon",
+    "name": "Carín León",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054554/CARINLEON_CROP.jpg",
     "label": "Socios Music",
-    "country": "United States"
+    "country": "United States",
+    "bio": "Óscar Armando Díaz de León Huez, known professionally as Carín León, is a Mexican singer-songwriter who specializes in regional Mexican music. He has recorded songs in several of its subgenres, as well as incorporated influence from other musical genres."
   },
   {
     "name": "Mac DeMarco",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/08/15054632/SUuDCbiiV3rqQch8Ur78MLMI-scaled-1.jpg",
     "label": "Mac's Record Label",
-    "country": "United States"
+    "country": "United States",
+    "bio": "McBriare Samuel Lanyon DeMarco is a Canadian singer-songwriter, multi-instrumentalist and producer. DeMarco initially emerged in the indie music scene in 2012, and has since released six full-length studio albums: his debut '2' (2012), 'Salad Days' (2014), 'This Old Dog' (2017), 'Here Comes the Cowboy' (2019), 'Five Easy Hot Dogs' (2023) and 'Guitar' (2025). He additionally released the mini-albums 'Rock and Roll Night Club' in 2012 and 'Another One' in 2015, as well as the compilation album 'One Wayne G' in 2023. In 2018, DeMarco established his own record label by the name of Mac's Record Label."
   },
   {
     "name": "James Blake",
