@@ -1,0 +1,77 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow this workflow to publish to GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one concurrent deployment; let in-progress runs finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+# Served from a project sub-path: https://<user>.github.io/screens
+env:
+  NEXT_PUBLIC_BASE_PATH: /screens
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # Refresh news.json from the live feeds. On failure, keep the committed
+      # copy rather than deploying an empty file.
+      - name: Refresh news data
+        continue-on-error: true
+        run: |
+          if pnpm tsx scripts/get-news.ts > /tmp/news.json \
+            && jq . /tmp/news.json > /tmp/news.pretty.json; then
+            mv /tmp/news.pretty.json public/data/news.json
+          else
+            echo "News refresh failed; using committed public/data/news.json"
+          fi
+
+      - name: Build static export
+        run: pnpm build
+
+      # GitHub Pages serves with Jekyll by default, which ignores _next/.
+      - name: Disable Jekyll
+        run: touch out/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
