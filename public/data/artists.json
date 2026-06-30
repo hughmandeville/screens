@@ -100,13 +100,15 @@
     "name": "Amyl and The Sniffers",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2024/09/15054555/Amyl-the-Sniffers-_CROP.jpg",
     "label": "Virgin Music",
-    "country": "Australia"
+    "country": "Australia",
+    "bio": "Amyl and the Sniffers are an Australian pub rock and punk band based in Melbourne, consisting of vocalist Amy Taylor, drummer Bryce Wilson, guitarist Declan Mehrtens, and bassist Gus Romer. They released their debut album, `Amyl and the Sniffers`, in 2019. Their second album, `Comfort to Me`, was released in 2021, followed by their third album, `Cartoon Darkness`, in 2024. They have been nominated for nine ARIA Awards and have won three, including for Best Group in 2022."
   },
   {
     "name": "Modest Mouse",
     "image": "https://s3.us-west-2.amazonaws.com/prod.assets.website.virginmusic.com/wp-content/uploads/2026/03/11001045/Single_1_Look_How_Far_-_Press_Image_LEAD_PHOTO.jpg",
     "label": "Glacial Pace Recordings",
-    "country": "United States"
+    "country": "United States",
+    "bio": "Modest Mouse is an American indie rock band formed in 1993 in Issaquah, Washington, and currently based in Portland, Oregon. The founding members were lead singer/guitarist Isaac Brock, drummer Jeremiah Green and bassist Eric Judy. They achieved critical acclaim for their albums 'The Lonesome Crowded West' (1997) and 'The Moon & Antarctica' (2000) and found mainstream success with the release of 'Good News for People Who Love Bad News' (2004) and its singles 'Float On' and 'Ocean Breathes Salty'. The following album 'We Were Dead Before the Ship Even Sank' (2007) brought additional successes with the single 'Dashboard'."
   },
   {
     "name": "Leigh-Anne",
