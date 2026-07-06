@@ -39,6 +39,16 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} ${playfair.variable}`}
     >
+      <head>
+        {/* Material Symbols icon font. display=block hides the ligature text
+            ("favorite"/"mode_comment") until the glyphs load; no-page-custom-font
+            is a pages-router heuristic that misfires on this App Router root layout. */}
+        {/* eslint-disable-next-line @next/next/no-page-custom-font, @next/next/google-font-display */}
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=block"
+        />
+      </head>
       <body>{children}</body>
     </html>
   );

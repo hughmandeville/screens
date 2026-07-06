@@ -2,34 +2,42 @@
 import { useEffect, useState } from "react";
 import { ArtistShowcase } from "./artists/ArtistShowcase";
 import { NewsCycler } from "./news/NewsCycler";
+import { StatsShowcase } from "./stats/StatsShowcase";
+import { SocialShowcase } from "./social/SocialShowcase";
 
 const SECTION_MS = 60000; // 1 minute per section
 
-// Alternates the full-screen view between the artist showcase and the news
-// cycler every minute, looping forever.
+const VIEWS = ["artists", "news", "stats", "social"] as const;
+type View = (typeof VIEWS)[number];
+
+// Cycles the full-screen view through the artist showcase, news cycler, stats
+// leaderboard, and social feed, one minute each, looping forever.
 export function Rotator() {
-  const [view, setView] = useState<"artists" | "news">("artists");
+  const [view, setView] = useState<View>("artists");
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      setView((v) => (v === "artists" ? "news" : "artists"));
+      setView((v) => VIEWS[(VIEWS.indexOf(v) + 1) % VIEWS.length]);
     }, SECTION_MS);
     return () => clearTimeout(timer);
   }, [view]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === "ArrowUp") {
+      if (e.key === "ArrowDown") {
         e.preventDefault();
-        setView("artists");
-      } else if (e.key === "ArrowDown") {
+        setView((v) => VIEWS[(VIEWS.indexOf(v) + 1) % VIEWS.length]);
+      } else if (e.key === "ArrowUp") {
         e.preventDefault();
-        setView("news");
+        setView((v) => VIEWS[(VIEWS.indexOf(v) - 1 + VIEWS.length) % VIEWS.length]);
       }
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, []);
 
-  return view === "artists" ? <ArtistShowcase /> : <NewsCycler />;
+  if (view === "news") return <NewsCycler />;
+  if (view === "stats") return <StatsShowcase />;
+  if (view === "social") return <SocialShowcase />;
+  return <ArtistShowcase />;
 }

@@ -1,0 +1,49 @@
+{
+    "stats": [
+        {
+            "id": "spotify-global-28",
+            "logo": "logo-spotify.png",
+            "title": "Global (28 days)",
+            "metric": "streams",
+            "fontColor": "#1ed760",
+            "items": [
+                {
+                    "type": "song",
+                    "name": "SWIM",
+                    "artist": "BTS",
+                    "value": 3556432,
+                    "position": 7,
+                    "imageUrl": "https://assets.soundcharts.com/song/2/c/a/d0a8e31c-2ac2-49ce-be08-0c6e1404f9dd.jpg",
+                    "change": -1
+                },
+                {
+                    "type": "song",
+                    "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
+                    "artist": "BTS & Jason Derulo & Jawsh 685",
+                    "value": 123456,
+                    "position": 42,
+                    "imageUrl": "https://assets.soundcharts.com/song/b/4/1/3b94a9c7-014b-4c29-b5ff-d832f5096cd7.jpg",
+                    "change": 2
+                }
+            ]
+        },
+        {
+            "id": "youtube-us-7",
+            "logo": "logo-youtube.png",
+            "title": "U.S. (7 days)",
+            "metric": "views",
+            "fontColor": "#ff0033",
+            "items": [
+                {
+                    "type": "song",
+                    "name": "2.0",
+                    "artist": "BTS",
+                    "value": 0,
+                    "position": 75,
+                    "imageUrl": "https://i.ytimg.com/vi/_gyultVTesk/mqdefault.jpg",
+                    "change": 0
+                }
+            ]
+        }
+    ]
+}
