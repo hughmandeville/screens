@@ -76,7 +76,7 @@ export function StatsShowcase() {
       setIndex((i) => (i + 1) % blocks.length);
     }, BLOCK_MS);
     return () => clearInterval(timer);
-  }, [blocks.length, index]);
+  }, [blocks.length]);
 
   useEffect(() => {
     if (blocks.length === 0) return;
@@ -102,7 +102,7 @@ export function StatsShowcase() {
   }
 
   const block = blocks[index];
-  const items = [...block.items]
+  const items = [...(block.items ?? [])]
     .sort((a, b) => a.position - b.position)
     .slice(0, MAX_ITEMS);
   const metric = capitalize(block.metric);
@@ -151,7 +151,7 @@ export function StatsShowcase() {
                 <span className={styles.name}>{item.name}</span>
                 <span className={styles.artist}>{item.artist}</span>
               </div>
-              {item.value !== 0 && (
+              {Number.isFinite(item.value) && item.value !== 0 && (
                 <div className={styles.value}>
                   <span className={styles.number}>
                     {item.value.toLocaleString("en-US")}

@@ -57,7 +57,7 @@ export function SocialShowcase() {
   }, []);
 
   const post = posts[postIndex];
-  const imageCount = post?.imageUrls.length ?? 0;
+  const imageCount = post?.imageUrls?.length ?? 0;
 
   useEffect(() => {
     if (posts.length === 0) return;
@@ -88,7 +88,7 @@ export function SocialShowcase() {
           if (i > 0) return i - 1;
           const prev = (postIndex - 1 + posts.length) % posts.length;
           setPostIndex(prev);
-          return Math.max(0, posts[prev].imageUrls.length - 1);
+          return Math.max(0, (posts[prev]?.imageUrls?.length ?? 0) - 1);
         });
       }
     };
@@ -104,7 +104,7 @@ export function SocialShowcase() {
     return <main className={styles.empty}>No posts available right now.</main>;
   }
 
-  const imageUrl = post.imageUrls[imageIndex]?.replace(/&amp;/g, "&") ?? "";
+  const imageUrl = post.imageUrls?.[imageIndex]?.replace(/&amp;/g, "&") ?? "";
   const captionLines = post.text.split(/<br\s*\/?>/i);
 
   return (
