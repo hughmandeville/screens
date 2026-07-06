@@ -39,6 +39,8 @@ usage:
 	@echo "  Artists   http://localhost:3000/artists"
 	@echo "  Home      http://localhost:3000"
 	@echo "  News      http://localhost:3000/news"
+	@echo "  Social    http://localhost:3000/social"
+	@echo "  Stats     http://localhost:3000/stats"
 	@echo
 
 ## :
