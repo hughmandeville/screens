@@ -4,20 +4,90 @@
     "sourceName": "Billboard",
     "accent": "#000000",
     "logo": "/img/logo-billboard.png",
-    "title": "2 Chainz to Perform at the Players Party in Philadelphia During MLB All-Star Week: ‘Make It a Memorable Night’",
-    "link": "https://www.billboard.com/music/rb-hip-hop/2-chainz-perform-mlb-all-star-week-players-party-1236287152/",
-    "date": "2026-07-06T14:15:40.000Z",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/07/2177743878-e1783031581883.jpg"
+    "title": "Zac Brown Band Talks New Tour & Creating Their Recent Sphere Residency: ‘You Learn Your Limits’",
+    "link": "https://www.billboard.com/music/country/zac-brown-band-tour-love-fear-1236291969/",
+    "date": "2026-07-10T20:40:55.000Z",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/07/P115TE57-e1783715223356.jpg"
   },
   {
     "sourceSlug": "rolling-stone",
     "sourceName": "Rolling Stone",
     "accent": "#e10a0a",
     "logo": "/img/logo-rolling-stone.png",
-    "title": "What Makes America Great Was on Display in D.C. — Just Not at Trump’s Celebration",
-    "link": "https://www.rollingstone.com/politics/politics-features/america-history-dc-freedom-250-1235589425/",
-    "date": "2026-07-05T19:37:26Z",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/America-250.jpg"
+    "title": "How Much Did Taylor Swift’s Wedding to Travis Kelce Cost?",
+    "link": "https://www.rollingstone.com/music/music-features/taylor-swift-travis-kelce-wedding-cost-estimate-1235590070/",
+    "date": "2026-07-10T20:32:59Z",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/Taylor-Swift-Wedding-by-the-Numbers.jpg"
+  },
+  {
+    "sourceSlug": "variety",
+    "sourceName": "Variety",
+    "accent": "#0faf9a",
+    "logo": "/img/logo-variety.png",
+    "title": "Ariana Grande Drops Out of ‘American Horror Story’ Season 13 Amid Concert Tour",
+    "link": "https://variety.com/2026/music/news/ariana-grande-exits-american-horror-story-13-tour-1236806759/",
+    "date": "2026-07-10T18:17:15.000Z",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MixCollage-10-Jul-2026-01-06-PM-7018.jpg"
+  },
+  {
+    "sourceSlug": "nyt-popcast",
+    "sourceName": "NYT Popcast",
+    "accent": "#326891",
+    "logo": "/img/logo-nyt-popcast.png",
+    "title": "Jay-Z’s Definitive Album? Debating ‘Reasonable Doubt’ vs. ‘The Blueprint’",
+    "link": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
+    "date": "2026-07-10T16:15:06.000Z",
+    "image": "https://static01.nyt.com/images/2026/07/10/arts/10cul-jayz-popcast-onsite-promo/10cul-jayz-popcast-onsite-promo-largeHorizontalJumbo.jpg"
+  },
+  {
+    "sourceSlug": "hypebot",
+    "sourceName": "Hypebot",
+    "accent": "#ff5a00",
+    "logo": "/img/logo-hypebot.png",
+    "title": "Ticket Receipts as New Funding Stream for Venues",
+    "link": "https://www.hypebot.com/ticket-receipts-as-new-funding-stream-for-venues/",
+    "date": "2026-07-10T13:56:33.000Z",
+    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-10-nivf.jpg"
+  },
+  {
+    "sourceSlug": "music-business-worldwide",
+    "sourceName": "Music Business Worldwide",
+    "accent": "#e2231a",
+    "logo": "/img/logo-mbw.png",
+    "title": "From Primary Wave’s Kobalt acquisition to CVC’s DistroKid deal… it’s MBW’s weekly round-up",
+    "link": "https://www.musicbusinessworldwide.com/from-primary-waves-1-5bn-kobalt-takeover-to-cvcs-distrokid-deal-its-mbws-weekly-round-up/",
+    "date": "2026-07-10T16:34:27.000Z",
+    "image": "https://www.musicbusinessworldwide.com/files/2025/08/BMIRound-Up-648x365.jpg"
+  },
+  {
+    "sourceSlug": "digital-music-news",
+    "sourceName": "Digital Music News",
+    "accent": "#1a73e8",
+    "logo": "/img/logo-dmn.png",
+    "title": "Jay-Z’s Three-Night Yankee Stadium Run is a Slow Seller—Prices Dropping as Inventory Remains Open Across All Dates",
+    "link": "https://www.digitalmusicnews.com/2026/07/10/jay-z-yankee-stadium-shows-slow-sales/",
+    "date": "2026-07-10T20:08:08.000Z",
+    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/jay-z-three-night-yankee-stadium-run-is-a-slow-seller-with-prices-dropping.png"
+  },
+  {
+    "sourceSlug": "billboard",
+    "sourceName": "Billboard",
+    "accent": "#000000",
+    "logo": "/img/logo-billboard.png",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "date": "2026-07-10T20:33:00.000Z",
+    "image": "https://www.billboard.com/wp-content/uploads/2024/04/Events-calendar-2024-billboard-1548.jpg"
+  },
+  {
+    "sourceSlug": "rolling-stone",
+    "sourceName": "Rolling Stone",
+    "accent": "#e10a0a",
+    "logo": "/img/logo-rolling-stone.png",
+    "title": "Fiona Apple Wants to Write About the ‘Endless Barrage of Horrors’ in Today’s World",
+    "link": "https://www.rollingstone.com/music/music-news/fiona-apple-new-music-video-update-1235592093/",
+    "date": "2026-07-10T19:09:43Z",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/fiona-apple-world.jpg"
   },
   {
     "sourceSlug": "nyt-popcast",
@@ -26,7 +96,7 @@
     "logo": "/img/logo-nyt-popcast.png",
     "title": "Gracie Abrams on ‘Nepo’ Label, Writing With Paul Mescal and Her New Album",
     "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
-    "date": "2026-06-26T17:34:40.000Z",
+    "date": "2026-07-10T11:48:58.000Z",
     "image": "https://static01.nyt.com/images/2026/06/25/multimedia/gracie-abrams-promo/gracie-abrams-placeholder-promo-largeHorizontalJumbo.jpg"
   },
   {
@@ -34,50 +104,50 @@
     "sourceName": "Hypebot",
     "accent": "#ff5a00",
     "logo": "/img/logo-hypebot.png",
-    "title": "New Bandcamp Layoffs: Why Artists Are Worried and Where to Turn",
-    "link": "https://www.hypebot.com/new-bandcamp-layoffs-why-artists-are-worried-and-where-to-turn/",
-    "date": "2026-07-06T14:12:23.000Z",
-    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Gemini_Generated_Image_5r7nps5r7nps5r7n.png"
+    "title": "Luminate Live Music Report: The Who & How of Concert-Going Are Changing",
+    "link": "https://www.hypebot.com/luminate-live-music-report-of/",
+    "date": "2026-07-10T12:28:16.000Z",
+    "image": "https://images.unsplash.com/photo-1565035010268-a3816f98589a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGxpdmUlMjBtdXNpY3xlbnwwfHx8fDE3ODM2MDcyMzV8MA&ixlib=rb-4.1.0&q=80&w=2000"
   },
   {
     "sourceSlug": "music-business-worldwide",
     "sourceName": "Music Business Worldwide",
     "accent": "#e2231a",
     "logo": "/img/logo-mbw.png",
-    "title": "Bella Figura founder Alexi Cory-Smith dies, aged 58",
-    "link": "https://www.musicbusinessworldwide.com/bella-figura-founder-alexi-cory-smith-dies-suddenly-aged-58/",
-    "date": "2026-07-03T15:28:29.000Z",
-    "image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-03-at-16.26.08-648x398.jpg"
+    "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
+    "link": "https://www.musicbusinessworldwide.com/sam-smith-and-normani-move-to-end-dancing-with-a-stranger-copyright-suit-say-the-older-song-is-itself-built-on-unlicensed-samples/",
+    "date": "2026-07-10T14:24:51.000Z",
+    "image": "https://www.musicbusinessworldwide.com/files/2026/07/shutterstock_2488228977-e1783693448665-648x365.jpg"
   },
   {
     "sourceSlug": "digital-music-news",
     "sourceName": "Digital Music News",
     "accent": "#1a73e8",
     "logo": "/img/logo-dmn.png",
-    "title": "Australian Agency Apologizes After Booking an AI Artist, Claiming Submission Looked ‘Consistent with Genuine Artists’",
-    "link": "https://www.digitalmusicnews.com/2026/07/05/australian-agency-apologizes-after-ai-artist-booked/",
-    "date": "2026-07-06T05:00:37.000Z",
-    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/australian-agency-apologizes-after-booking-ai-artist.png"
+    "title": "StubHub’s ‘Marketplace for Fans’ is Run by a Mass Scalper, SEC Filings Reveal",
+    "link": "https://www.digitalmusicnews.com/2026/07/10/stubhub-marketplace-scalper-ceo/",
+    "date": "2026-07-10T19:36:36.000Z",
+    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/stubhub-marketplace-for-fans-is-run-by-a-mass-scalper-according-to-sec-filings.png"
   },
   {
     "sourceSlug": "billboard",
     "sourceName": "Billboard",
     "accent": "#000000",
     "logo": "/img/logo-billboard.png",
-    "title": "How Shakira’s FIFA World Cup Looks Came to Life: Wardrobe Stylist Renee Old Explains",
-    "link": "https://www.billboard.com/music/latin/renee-old-shakira-fifa-world-cup-designer-1236286292/",
-    "date": "2026-07-06T14:00:00.000Z",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/07/2281108449-e1782945046721.jpg"
+    "title": "Oscar-Winning Actor Anthony Hopkins Signs with Decca Classics as a Classical Composer",
+    "link": "https://www.billboard.com/pro/anthony-hopkins-signs-decca-classical-music-album/",
+    "date": "2026-07-10T20:16:07.000Z",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/07/AnthonyHopkins-Billboard-Charlie-Gray-1800-2026.jpg"
   },
   {
     "sourceSlug": "rolling-stone",
     "sourceName": "Rolling Stone",
     "accent": "#e10a0a",
     "logo": "/img/logo-rolling-stone.png",
-    "title": "Noah Kahan Brings the Fireworks to Rolling Stone’s Stateside Festival",
-    "link": "https://www.rollingstone.com/music/music-live-reviews/noah-kahan-rolling-stone-stateside-festival-recap-1235589266/",
-    "date": "2026-07-05T16:18:30Z",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/stateside-recap-NOAH-LEAD1.jpg"
+    "title": "The Linda Lindas Embrace Imperfection on ‘Gotta Get Out’ Album Featuring Hayley Williams on ‘Closer’",
+    "link": "https://www.rollingstone.com/music/music-news/the-linda-lindas-hayley-williams-single-closer-new-album-1235592019/",
+    "date": "2026-07-10T18:06:31Z",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/Linda-Lindas-Announce-New-Album.jpg"
   },
   {
     "sourceSlug": "nyt-popcast",
@@ -94,50 +164,50 @@
     "sourceName": "Hypebot",
     "accent": "#ff5a00",
     "logo": "/img/logo-hypebot.png",
-    "title": "A Day in the Life of a Working Musician on Gig Day",
-    "link": "https://www.hypebot.com/a-day-in-the-life-of-a-working-musician-on-gig-day/",
-    "date": "2026-07-06T14:03:20.000Z",
-    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-6-kat-1.jpg"
+    "title": "Is Spotify Guarding Against One Type of AI Market Distortion While Monetizing Another?",
+    "link": "https://www.hypebot.com/is-spotify-guarding-against-one-type-of-ai-market-distortion-while-monetizing-another/",
+    "date": "2026-07-10T12:12:02.000Z",
+    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-8-spotify-1.jpg"
   },
   {
     "sourceSlug": "music-business-worldwide",
     "sourceName": "Music Business Worldwide",
     "accent": "#e2231a",
     "logo": "/img/logo-mbw.png",
-    "title": "Spotify slashes streams of hit song after suspicious activity on prediction market Kalshi",
-    "link": "https://www.musicbusinessworldwide.com/spotify-slashes-streams-hit-song-after-suspicious-activity-on-prediction-market-kalshi/",
-    "date": "2026-07-03T11:01:38.000Z",
-    "image": "https://www.musicbusinessworldwide.com/files/2026/07/3ENFK3F-648x431.jpg"
+    "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
+    "link": "https://www.musicbusinessworldwide.com/streaming-accelerates-nostalgia-driven-catalog-discovery-says-vevo-study/",
+    "date": "2026-07-10T13:30:06.000Z",
+    "image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-10-at-14.36.50-e1783690679550-648x365.jpg"
   },
   {
     "sourceSlug": "digital-music-news",
     "sourceName": "Digital Music News",
     "accent": "#1a73e8",
     "logo": "/img/logo-dmn.png",
-    "title": "After a Nice Theatrical Run, Amazon Prime Drops NBA YoungBoy Special ‘American YoungBoy’ on July 4th",
-    "link": "https://www.digitalmusicnews.com/2026/07/05/amazon-prime-nba-youngboy-special/",
-    "date": "2026-07-06T04:15:52.000Z",
-    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/amazon-prime-drops-nba-youngboy-special-on-july-4th-after-theatrical-run.png"
+    "title": "The Music Video Is Today’s ‘Ultimate Nostalgia Medium,’ Topping Film/TV, Gaming, Sports, and More, Vevo Study Finds",
+    "link": "https://www.digitalmusicnews.com/2026/07/10/music-videos-nostalgia-study/",
+    "date": "2026-07-10T19:35:02.000Z",
+    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Music-Video-Nostalgia.jpg"
   },
   {
     "sourceSlug": "billboard",
     "sourceName": "Billboard",
     "accent": "#000000",
     "logo": "/img/logo-billboard.png",
-    "title": "Kevin Herring Steps Down as Co-President at Triple Tigers Records",
-    "link": "https://www.billboard.com/pro/kevin-herring-steps-down-at-triple-tigers-records/",
-    "date": "2026-07-06T14:00:00.000Z",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/07/Kevin-Herring-CR-Triple-Tigers-Records-Billboard.jpg"
+    "title": "Beyoncé, Suki Waterhouse, Teddy Swims, Feid & More: New Music Friday Guide",
+    "link": "https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
+    "date": "2026-07-10T19:55:00.000Z",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/05/P10607CT.jpg"
   },
   {
     "sourceSlug": "rolling-stone",
     "sourceName": "Rolling Stone",
     "accent": "#e10a0a",
     "logo": "/img/logo-rolling-stone.png",
-    "title": "Trump Said a Bunch of Weird Stuff About History in  July 4th Speech",
-    "link": "https://www.rollingstone.com/politics/politics-news/trump-weird-history-america-250-speech-1235589329/",
-    "date": "2026-07-05T15:45:42Z",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/Donald-Trump.jpg"
+    "title": "Jack White, Future, Kelela, and All the Songs You Need to Know This Week",
+    "link": "https://www.rollingstone.com/music/music-features/future-jack-white-kelela-and-songs-you-need-to-know-1235591962/",
+    "date": "2026-07-10T17:23:01Z",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/jack-white-frozen-charlotte-review.jpg"
   },
   {
     "sourceSlug": "nyt-popcast",
@@ -154,89 +224,29 @@
     "sourceName": "Hypebot",
     "accent": "#ff5a00",
     "logo": "/img/logo-hypebot.png",
-    "title": "Forget 'Subscribe,' Teach Fans to Hack Their Social Feeds",
-    "link": "https://www.hypebot.com/forget-subscribe-teach-fans-to-hack-their-social-feeds/",
-    "date": "2026-07-06T13:14:21.000Z",
-    "image": "https://images.unsplash.com/photo-1699531683515-d9c19d9cf9c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIyfHxoYWNraW5nJTIwc29jaWFsJTIwbWVkaWF8ZW58MHx8fHwxNzgyOTEyMDQyfDA&ixlib=rb-4.1.0&q=80&w=2000"
+    "title": "The Modern Guide to Getting Your Music Played on Radio",
+    "link": "https://www.hypebot.com/the-modern-guide-to-getting-your-music-played-on-radio/",
+    "date": "2026-07-10T11:38:34.000Z",
+    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/pexels-budgeron-bach-5158212.jpg"
   },
   {
     "sourceSlug": "music-business-worldwide",
     "sourceName": "Music Business Worldwide",
     "accent": "#e2231a",
     "logo": "/img/logo-mbw.png",
-    "title": "Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’",
-    "link": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
-    "date": "2026-07-02T21:39:41.000Z",
-    "image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.46.56-e1783021634294-648x365.jpg"
+    "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
+    "link": "https://www.musicbusinessworldwide.com/dynamite-songs-acquires-catalog-of-the-association-co-founder-terry-kirkman/",
+    "date": "2026-07-10T13:14:40.000Z",
+    "image": "https://www.musicbusinessworldwide.com/files/2026/07/1-IMAGE-11-648x365.jpg"
   },
   {
     "sourceSlug": "digital-music-news",
     "sourceName": "Digital Music News",
     "accent": "#1a73e8",
     "logo": "/img/logo-dmn.png",
-    "title": "Spotify Expands Afrobeats Footprint with Afro Nation Portugal Exclusive Streaming Deal",
-    "link": "https://www.digitalmusicnews.com/2026/07/05/spotify-afrobeats-afro-nation-portugal-deal/",
-    "date": "2026-07-06T03:21:58.000Z",
-    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/spotify-expands-afrobeats-footprint-with-afro-nation-portugal-exclusive-streaming-deal.png"
-  },
-  {
-    "sourceSlug": "billboard",
-    "sourceName": "Billboard",
-    "accent": "#000000",
-    "logo": "/img/logo-billboard.png",
-    "title": "Harry Styles’ Sister Gemma Paid Tribute to Singer During Final Night of Historic Wembley Residency: ‘I’m So Proud of Who You Are’",
-    "link": "https://www.billboard.com/music/pop/harry-styles-sister-gemma-tribute-final-night-wembley-residency-1236288087/",
-    "date": "2026-07-06T13:04:31.000Z",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/02/P104EOAD-e1772331582684.jpg"
-  },
-  {
-    "sourceSlug": "rolling-stone",
-    "sourceName": "Rolling Stone",
-    "accent": "#e10a0a",
-    "logo": "/img/logo-rolling-stone.png",
-    "title": "Ex-NFL Star and Podcaster Marcellus Wiley Arrested for Domestic Battery",
-    "link": "https://www.rollingstone.com/culture/culture-news/nfl-podcaster-marcellus-wiley-arrested-domestic-battery-1235589331/",
-    "date": "2026-07-05T15:19:17Z",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/GettyImages-1484341049.jpg"
-  },
-  {
-    "sourceSlug": "nyt-popcast",
-    "sourceName": "NYT Popcast",
-    "accent": "#326891",
-    "logo": "/img/logo-nyt-popcast.png",
-    "title": "Your Pop Music Questions Answered: Taylor Swift, Geese, the Beatles and More",
-    "link": "https://www.nytimes.com/2026/06/19/arts/music/popcast-mailbag-taylor-swift-the-beatles.html",
-    "date": "2026-06-19T09:02:32.000Z",
-    "image": "https://static01.nyt.com/images/2026/07/19/podcasts/19cul-POPCAST-MAILBAG/19cul-POPCAST-MAILBAG-largeHorizontalJumbo-v2.png"
-  },
-  {
-    "sourceSlug": "hypebot",
-    "sourceName": "Hypebot",
-    "accent": "#ff5a00",
-    "logo": "/img/logo-hypebot.png",
-    "title": "Your Morning Coffee Podcast: Spotify Slashes Streams, Google AI Training, Trends in Music.",
-    "link": "https://www.hypebot.com/your-morning-coffee-podcast-49/",
-    "date": "2026-07-06T12:55:38.000Z",
-    "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Your-Morning-Coffee.jpg"
-  },
-  {
-    "sourceSlug": "music-business-worldwide",
-    "sourceName": "Music Business Worldwide",
-    "accent": "#e2231a",
-    "logo": "/img/logo-mbw.png",
-    "title": "Logan Light joins Warner Music Group as Chief of Staff to CEO Robert Kyncl",
-    "link": "https://www.musicbusinessworldwide.com/logan-light-joins-warner-music-group-as-chief-of-staff-to-ceo-robert-kyncl/",
-    "date": "2026-07-02T21:38:38.000Z",
-    "image": "https://www.musicbusinessworldwide.com/files/2026/07/2-IMAGES-89-648x365.jpg"
-  },
-  {
-    "sourceSlug": "digital-music-news",
-    "sourceName": "Digital Music News",
-    "accent": "#1a73e8",
-    "logo": "/img/logo-dmn.png",
-    "title": "Suno Quickly Seizes on Udio’s Legal Victory Against Sony Music Over Admissible Infringed Works",
-    "link": "https://www.digitalmusicnews.com/2026/07/05/suno-admissible-infringed-works-argument/",
-    "date": "2026-07-06T03:14:33.000Z",
-    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/suno-seizes-on-udio-legal-victory-against-sony-music-over-admissible-infringed-works.png"
+    "title": "Spotify Has Invested More Than $1B in Podcasting—So Why Can’t It Beat YouTube?",
+    "link": "https://www.digitalmusicnews.com/2026/07/10/spotify-podcasting-cant-compete-youtube/",
+    "date": "2026-07-10T18:58:57.000Z",
+    "image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/spotify-invested-1b-in-podcasting-but-still-behind-youtube.png"
   }
 ]
