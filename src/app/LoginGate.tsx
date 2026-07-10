@@ -100,6 +100,26 @@ export function LoginGate({ children }: { children: React.ReactNode }) {
         <button className={styles.button} type="submit">
           Sign in
         </button>
+
+        <div className={styles.nav}>
+          <div className={styles.navTitle}>Navigational</div>
+          <ul className={styles.hints}>
+            <li>
+              <span className={styles.keys}>
+                <kbd className={styles.key}>↑</kbd>
+                <kbd className={styles.key}>↓</kbd>
+              </span>
+              Switch between categories (artists, news, ...)
+            </li>
+            <li>
+              <span className={styles.keys}>
+                <kbd className={styles.key}>←</kbd>
+                <kbd className={styles.key}>→</kbd>
+              </span>
+              Switch between cards
+            </li>
+          </ul>
+        </div>
       </form>
     </main>
   );

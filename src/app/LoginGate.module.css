@@ -106,3 +106,54 @@
 .button:hover {
   background-color: #c00909;
 }
+
+.nav {
+  margin-top: 1rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.navTitle {
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.hints {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.hints li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.keys {
+  display: inline-flex;
+  gap: 0.25rem;
+}
+
+.key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.6rem;
+  padding: 0.15rem 0.35rem;
+  font-family: inherit;
+  font-size: 0.8rem;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.85);
+  background-color: #161616;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 4px;
+}
