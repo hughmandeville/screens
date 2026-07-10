@@ -1,5 +1,10 @@
 import { Rotator } from "./Rotator";
+import { LoginGate } from "./LoginGate";
 
 export default function Home() {
-  return <Rotator />;
+  return (
+    <LoginGate>
+      <Rotator />
+    </LoginGate>
+  );
 }
